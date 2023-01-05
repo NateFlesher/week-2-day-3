@@ -1,0 +1,16 @@
+import math
+
+
+# Question 1
+
+def square_footage(length, width):
+    area = (length * width)
+
+    return area
+
+    # Question 2
+
+
+def circumference(r):
+    C = 2 * math.pi * r
+    return C
